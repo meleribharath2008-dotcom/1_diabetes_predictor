@@ -1,4 +1,4 @@
-# 1_diabetes_predictor
+Diabetes-prediction-system
 # Diabetes Prediction System
 
 A Machine Learning project that predicts whether a person is likely to have diabetes based on health-related attributes.
